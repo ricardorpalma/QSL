@@ -8,3 +8,4 @@ Material Radioaficionado
 * Pronóstico solar 30 dias <https://solar.w5mmw.net/>
 * Shortwave Broadcast Now <https://shortwave.live/freq?station=BBC&language=E&target=&hour=&minute=&band=>
 * Mapa busca estaciones Onda Corta <https://short-wave.info/>
+* Hotspot for radios QSO https://hamspots.net/
