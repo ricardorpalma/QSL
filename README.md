@@ -10,3 +10,7 @@ Material Radioaficionado
 * Mapa busca estaciones Onda Corta <https://short-wave.info/>
 * Hotspot for radios QSO <https://hamspots.net/>
 * Generador de e-qsl <https://digiqsl.com/>
+  <hr>
+  # Herramientas para el celular
+
+  📻  La mejor app para seguir QSO en curso HAMDASH.COM <https://hamdash.com/>
