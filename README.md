@@ -14,4 +14,5 @@ Material Radioaficionado
   # Herramientas para el celular
 
   📻  La mejor app para seguir QSO en curso HAMDASH.COM <https://hamdash.com/>
+  
   Listado de phamtom SDR (mejor que websdr.com y kiwisdr.con) <https://sdr-list.xyz/>
