@@ -16,3 +16,4 @@ Material Radioaficionado
   📻  La mejor app para seguir QSO en curso HAMDASH.COM <https://hamdash.com/>
   
   Listado de phamtom SDR (mejor que websdr.com y kiwisdr.con) <https://sdr-list.xyz/>
+  Contest Log de LDA <https://lda.ar/LdACLog/> 
